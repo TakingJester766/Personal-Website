@@ -15,7 +15,7 @@ function App() {
     <div className="container">
       <div className="text">
         <h1>Hi, I'm Alex Zimmerman</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at sagittis nulla, ut hendrerit felis. Fusce eget elementum orci. Aenean vel aliquet nisl, ac tempus erat.</p>
+        <p>I'm a self-taught developer and Finance Major at the University of Massachusetts Amherst.</p>
       </div>
       <div className="image">
         <img src="src/assets/me.jpg" alt="A picture of me" />
