@@ -1,7 +1,9 @@
 import { useState } from 'react'
 import Header from './home/Header'
 import './App.css'
-import About from './about/About';
+import About from './About';
+import GitHubActivityFeed from './Components/GithubActivityFeed';
+import config from './config';
 
 function App() {
 
@@ -21,6 +23,8 @@ function App() {
       </div>
       <About />
     </div>
+    <GitHubActivityFeed />
+
     </div>
   )
 }
