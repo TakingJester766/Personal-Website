@@ -107,7 +107,6 @@ button:focus-visible {
 .text {
   padding-right: 50px;
   margin-bottom: 50px;
-  text-align: justify;
 }
 
 .image {
@@ -133,3 +132,4 @@ button:focus-visible {
     flex: 1;
   }
 }
+
