@@ -90,3 +90,17 @@ a {
   margin: 0;
 }
 
+#github_logo {
+  height: 2em;
+  will-change: filter;
+  transition: filter 300ms;
+  margin: 8px;
+}
+
+#linkedin_logo {
+  height: 2em;
+  will-change: filter;
+  transition: filter 300ms;
+  margin: 8px;
+}
+
