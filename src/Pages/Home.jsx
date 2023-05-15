@@ -15,7 +15,7 @@ function Home() {
       <div className="text">
         <h1>Hi, I'm Alex.</h1>
         <p>I'm a self-taught developer and Finance Major at the University of Massachusetts Amherst.</p>
-        <p>Checkout my Github or hit some of the button below to see what I'm up to.</p>
+        <p>Click the buttons below to see what I'm up to.</p>
         {/*Link to my GitHub*/}
         <div className="buttons">
         

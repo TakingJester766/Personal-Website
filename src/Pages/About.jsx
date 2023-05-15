@@ -1,8 +1,11 @@
 import React from 'react'
+import Carousel from '../Components/Carousel';
 
 function About() {
   return (
-    <div>about-me</div>
+    <div>
+      <Carousel />
+    </div>
   )
 }
 
