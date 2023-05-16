@@ -1,10 +1,12 @@
 import React from 'react'
-import Carousel from '../Components/Carousel';
+import '../App.css'
 
 function About() {
   return (
-    <div>
-      <Carousel />
+    <div className="App">
+      <div className="container">
+      <h1 >About</h1>
+      </div>
     </div>
   )
 }

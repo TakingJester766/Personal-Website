@@ -6,7 +6,7 @@ import GitHubActivityFeed from './Components/GithubActivityFeed';
 import config from './config';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Home from './Pages/Home';
-import Footer from './Components/Footer';
+import Projects from './Pages/Projects';
 
 function App() {
 
@@ -18,7 +18,7 @@ function App() {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/about-me" element={<About />} />
-            <Route path="/projects" element={<GitHubActivityFeed username={config.username} />} />
+            <Route path="/projects" element={<Projects />} />
           </Routes>
         </div>
       </div>
